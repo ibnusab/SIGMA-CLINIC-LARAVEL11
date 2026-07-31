@@ -1,0 +1,6 @@
+{
+  "name": "SIGMA CLINIC",
+  "description": "Sistem Informasi Manajemen Klinik Modern berbasis Laravel 11, Blade, Eloquent, dan Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
